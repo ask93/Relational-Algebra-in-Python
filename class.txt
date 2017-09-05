@@ -1,0 +1,10 @@
+1	Aayush	Gupta	2	jan	1993	2nd	panipat	Delhi
+2	Abishk	Arora	24	feb	1993	3rd	blore	Karnataka
+3	Adit	Biswas	16	mar	1993	4th	lincon	zambia
+4	Aditya	HK	5	jul	1993	6th	brmvr	Karnataka
+5	Aditya	Sundar	4	may	1993	5th	blore	Karnataka
+6	Akilsh	Saini	23	oct	1992	wall	patna	Bihar
+7	Akshata	Mohan	20	oct	1993	km	blore	Karnataka
+8	Akshaya	Murali	10	nov	1993	tml	blore	Karnataka
+9	Akshay	K	2	dec	1993	ram	kolar	Karnataka
+10	Alok	Shah	7	jan	1993	6th	mumbai	Mahrastra	
